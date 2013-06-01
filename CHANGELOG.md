@@ -1,5 +1,10 @@
 === HEAD
 
+=== 0.2.0 (June 1, 2013)
+
+* Add `!important` to visibility utilities.
+* Add simple HTML test file.
+
 === 0.1.1 (May 26, 2013)
 
 * Add Bower ignores.
