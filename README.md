@@ -7,6 +7,7 @@ Read more about [SUIT's design principles](https://github.com/suitcss/suit/).
 ## Installation
 
 * [Bower](http://bower.io/): `bower install --save suit-utils-state`
+* [Component(1)](http://component.io/): `component install suitcss/utils-state`
 * Download: [zip](https://github.com/suitcss/utils-state/zipball/master)
 * Git: `git clone https://github.com/suitcss/utils-state.git`
 
