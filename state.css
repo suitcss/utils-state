@@ -3,10 +3,20 @@
    ========================================================================== */
 
 /**
- * Global states.
- * JavaScript may add/remove/toggle these classes.
- * All other states are component-scoped and use the `is-` prefix.
+ * Indicate that interaction will result in an (in)action.
  */
+
+.u-isActionable {
+    cursor: pointer !important;
+}
+
+.u-isDisabled {
+    cursor: default !important;
+}
+
+.u-isDraggable {
+    cursor: move !important;
+}
 
 /**
  * Completely remove from the flow and screen readers.
@@ -23,38 +33,22 @@
 
 .u-isHiddenVisually {
     position: absolute !important;
-    overflow: hidden;
-    width: 1px;
-    height: 1px;
-    padding: 0;
-    border: 0;
-    clip: rect(1px, 1px, 1px, 1px);
+    overflow: hidden !important;
+    width: 1px !important;
+    height: 1px !important;
+    padding: 0 !important;
+    border: 0 !important;
+    clip: rect(1px, 1px, 1px, 1px) !important;
 }
 
 /**
  * Control visibility without affecting flow.
  */
 
-.u-isVisible {
-    visibility: visible !important;
-}
-
 .u-isInvisible {
     visibility: hidden !important;
 }
 
-/**
- * Indicate that interaction will result in an (in)action.
- */
-
-.u-isActionable {
-    cursor: pointer;
-}
-
-.u-isDraggable {
-    cursor: move;
-}
-
-.u-isDisabled {
-    cursor: default;
+.u-isVisible {
+    visibility: visible !important;
 }

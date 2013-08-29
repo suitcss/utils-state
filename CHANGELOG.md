@@ -1,5 +1,7 @@
 === HEAD
 
+* Add `!important` to the declarations.
+
 === 0.2.0 (June 1, 2013)
 
 * Add `!important` to visibility utilities.
