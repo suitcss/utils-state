@@ -1,5 +1,7 @@
 === HEAD
 
+=== 0.2.1 (August 29, 2013)
+
 * Add CSS linting.
 * Add `!important` to the declarations.
 
