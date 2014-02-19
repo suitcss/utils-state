@@ -7,15 +7,15 @@
  */
 
 .u-isActionable {
-    cursor: pointer !important;
+  cursor: pointer !important;
 }
 
 .u-isDisabled {
-    cursor: default !important;
+  cursor: default !important;
 }
 
 .u-isDraggable {
-    cursor: move !important;
+  cursor: move !important;
 }
 
 /**
@@ -23,8 +23,8 @@
  */
 
 .u-isHidden {
-    display: none !important;
-    visibility: hidden !important;
+  display: none !important;
+  visibility: hidden !important;
 }
 
 /**
@@ -32,13 +32,13 @@
  */
 
 .u-isHiddenVisually {
-    position: absolute !important;
-    overflow: hidden !important;
-    width: 1px !important;
-    height: 1px !important;
-    padding: 0 !important;
-    border: 0 !important;
-    clip: rect(1px, 1px, 1px, 1px) !important;
+  position: absolute !important;
+  overflow: hidden !important;
+  width: 1px !important;
+  height: 1px !important;
+  padding: 0 !important;
+  border: 0 !important;
+  clip: rect(1px, 1px, 1px, 1px) !important;
 }
 
 /**
@@ -46,9 +46,9 @@
  */
 
 .u-isInvisible {
-    visibility: hidden !important;
+  visibility: hidden !important;
 }
 
 .u-isVisible {
-    visibility: visible !important;
+  visibility: visible !important;
 }
