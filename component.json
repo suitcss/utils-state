@@ -1,8 +1,8 @@
 {
-    "name": "utils-state",
-    "repo": "suitcss/utils-state",
-    "version": "0.2.1",
-    "styles": ["state.css"],
-    "author": "Nicolas Gallagher",
-    "license": "MIT"
+  "name": "utils-state",
+  "repo": "suitcss/utils-state",
+  "version": "0.2.1",
+  "styles": ["state.css"],
+  "author": "Nicolas Gallagher",
+  "license": "MIT"
 }
