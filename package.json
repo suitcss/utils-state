@@ -1,6 +1,6 @@
 {
   "name": "suitcss-utils-state",
-  "version": "0.2.1",
+  "version": "0.3.0",
   "style": "state.css",
   "files": [
     "state.css",
