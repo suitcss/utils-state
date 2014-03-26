@@ -3,6 +3,9 @@
   "repo": "suitcss/utils-state",
   "version": "0.2.1",
   "styles": ["state.css"],
+  "development": {
+    "suitcss/components-test": "*"
+  },
   "author": "Nicolas Gallagher",
   "license": "MIT"
 }
