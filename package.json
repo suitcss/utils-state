@@ -1,15 +1,9 @@
 {
-  "name": "suit-utils-state",
+  "name": "suitcss-utils-state",
   "version": "0.2.1",
   "style": "state.css",
   "files": [
     "state.css",
     "component.json"
-  ],
-  "devDependencies": {
-    "csslint": ">=0.9.10"
-  },
-  "scripts": {
-    "test": "./node_modules/.bin/csslint *.css"
-  }
+  ]
 }
