@@ -1,5 +1,10 @@
 === HEAD
 
+* Add npm support.
+* Add build tools.
+* Remove CSSLint.
+* Add `u-isShown` utility.
+
 === 0.2.1 (August 29, 2013)
 
 * Add CSS linting.
