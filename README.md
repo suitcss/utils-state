@@ -2,16 +2,16 @@
 
 [![Build Status](https://secure.travis-ci.org/suitcss/utils-state.png?branch=master)](http://travis-ci.org/suitcss/utils-state)
 
-A SUIT collection of utility classes for low-level, global CSS states.
+SUIT CSS state utilities.
 
 Read more about [SUIT's design principles](https://github.com/suitcss/suit/).
 
 ## Installation
 
-* [Bower](http://bower.io/): `bower install --save suit-utils-state`
 * [Component(1)](http://component.io/): `component install suitcss/utils-state`
+* [npm](http://npmjs.org/): `npm install suitcss-utils-state`
+* [Bower](http://bower.io/): `bower install suit-utils-state`
 * Download: [zip](https://github.com/suitcss/utils-state/zipball/master)
-* Git: `git clone https://github.com/suitcss/utils-state.git`
 
 ## Available classes
 
@@ -31,17 +31,23 @@ Please refer to the README for [SUIT utils](https://github.com/suitcss/utils/)
 
 Install [Node](http://nodejs.org) (comes with npm).
 
-From the repo root, install the project's development dependencies:
-
 ```
 npm install
 ```
 
-To run the CSS Lint tests:
+To generate a build:
 
 ```
-npm test
+npm run build
 ```
+
+To generate the testing build.
+
+```
+npm run build-test
+```
+
+Basic visual tests are in `test.html`.
 
 ## Browser support
 
