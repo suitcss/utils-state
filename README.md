@@ -20,8 +20,9 @@ Read more about [SUIT's design principles](https://github.com/suitcss/suit/).
 * `u-isDraggable` - Style with a `move` cursor to indicate an element can be dragged.
 * `u-isHidden` - Completely remove an element from the flow and screen readers.
 * `u-isHiddenVisually` - Completely remove an element from the flow but leave available to screen readers.
-* `u-isVisible` - Make an element visible.
 * `u-isInvisible` - Hide an element without affecting flow
+* `u-isShown` - Show a hidden element.
+* `u-isVisible` - Make an element visible.
 
 ## Usage
 
