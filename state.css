@@ -36,7 +36,6 @@ table.u-isShown {
   display: table !important;
 }
 
-tr.u-isShown,
 tr.u-isShown {
   display: table-row !important;
 }
