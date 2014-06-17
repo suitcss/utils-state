@@ -1,10 +1,10 @@
-# SUIT utilities: state
+# SUIT CSS utilities: state
 
 [![Build Status](https://secure.travis-ci.org/suitcss/utils-state.png?branch=master)](http://travis-ci.org/suitcss/utils-state)
 
 SUIT CSS state utilities.
 
-Read more about [SUIT's design principles](https://github.com/suitcss/suit/).
+Read more about [SUIT CSS's design principles](https://github.com/suitcss/suit/).
 
 ## Installation
 
@@ -26,7 +26,7 @@ Read more about [SUIT's design principles](https://github.com/suitcss/suit/).
 
 ## Usage
 
-Please refer to the README for [SUIT utils](https://github.com/suitcss/utils/)
+Please refer to the README for [SUIT CSS utils](https://github.com/suitcss/utils/)
 
 ## Testing
 
