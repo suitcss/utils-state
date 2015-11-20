@@ -1,4 +1,4 @@
-# SUIT CSS utilities: state
+# SUIT CSS utilities: state (DEPRECATED)
 
 [![Build Status](https://secure.travis-ci.org/suitcss/utils-state.png?branch=master)](http://travis-ci.org/suitcss/utils-state)
 
